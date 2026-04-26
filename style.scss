@@ -71,7 +71,7 @@
 @media (max-width: 768px) {
   .product-container .product-grid {
     flex-direction: column;
-
+    gap: 15px;
     .product-card {
       border-bottom: none;
       &:last-child {
